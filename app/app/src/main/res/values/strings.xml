@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Study Planner</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_calendar">Calendar</string>
+    <string name="title_activity_create">CreateActivity</string>
+
+    <string name="tab0">Study Plans</string>
+    <string name="tab1">Assignments</string>
+    <string name="tab2">Exams</string>
+    <string name="tab3">Lectures</string>
+
+    <string-array name="types_of_events">
+        <item>Study Plan</item>
+        <item>Assignment</item>
+        <item>Exam</item>
+        <item>Lecture</item>
+    </string-array>
+
+</resources>

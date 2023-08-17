@@ -1,0 +1,8 @@
+References:
+1)https://github.com/SundeepK/CompactCalendarView
+2)https://www.youtube.com/watch?v=DQ8HDL-X9rM
+3)https://www.youtube.com/watch?v=Vyqz_-sJGFk
+4)https://www.youtube.com/watch?v=tZvjSl9dswg
+5)https://developer.android.com/guide/topics/ui/layout/recyclerview?gclid=CjwKCAiAhreNBhAYEiwAFGGKPJI4dTsSsJssgWKUZO2Dxud8BKrLw31FaaqYZD0D4UmrwRMUMkSkJxoCwocQAvD_BwE&gclsrc=aw.ds
+6)https://www.developer.com/mobile/working-with-the-android-calendar/
+7)https://www.youtube.com/c/Freecodecamp
